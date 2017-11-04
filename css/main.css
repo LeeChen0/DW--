@@ -4,6 +4,7 @@ a{  text-decoration:none;}
 li{list-style-type:none;}
 img{border:none; padding:0px; }
 /*首页*/
+#head .inner {background: url(../images/head.jpg) no-repeat center top;height:250px;}
 .inner{ width:1200px; margin:0px auto; }
 .logo{ padding-top:20px; padding-left:120px; float:left;}
 .quicklink{width:300px; height:100px; float:right; padding-right:135px; padding-top:30px;}
@@ -21,7 +22,7 @@ text-align:center;
 background-color: #cee8cd;}
 #menu1 p a:hover{background-color:#FFF; color:#cee8cd;}
 #main1 .inner {
-	background-image: url(big_background.jpg);
+	background-image: url(../images/big_background.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 	height: 1000px;
@@ -37,7 +38,7 @@ text-align:center;
 background-color: #cee8cd;}
 #menu p a:hover{background-color:#FFF; color:#cee8cd;}
 #main .inner {
-	background-image: url(big_background.jpg);
+	background-image: url(../images/big_background.jpg);
 	background-repeat: no-repeat;
 	background-position: center top;
 	height: 1000px;
@@ -84,7 +85,7 @@ li{ height:40px;}
 .boy .inTheProse .littlepoem { border-left:#000 3px solid;
 }
 
-#foot { height:150px; width:1200px;margin:0px auto; background-image:url(.../images/foot.jpg);}
+#foot { height:150px; width:1200px;margin:0px auto; background-image:url(../images/foot.jpg);}
 .foot_Left{ color:#afa9a9; font-family:"楷体"; padding-top:40px; float:left; font-size:24px; width:398px;  border-right:1.5px solid #fff; height:150px;}
 .foot_Right{width:398px; height:150px;color:#afa9a9; font-family:"楷体"; float:right; border-left:1.5px solid #fff;}
 .foot_Mid{ float:left; width:398px; padding-top:40px;}
@@ -100,14 +101,14 @@ li{ height:40px;}
 	background-position: center top;
 	height: 1000px;
 }
-.banner_pic{ background: url(listbackground.jpg)  no-repeat top center ;  overflow:hidden;  padding-bottom:20px; height:1000px;}
+.banner_pic{ background: url(../images/listbackground.jpg)  no-repeat top center ;  overflow:hidden;  padding-bottom:20px; height:1000px;}
 
 .position{width:1200px; height:160px; margin:0 auto;}
 .listrow{width:1050px;  margin:0 auto;}
 .coltitle{color:#65cb56; font-size:20px; font-weight:bold;font-family:"楷体";} 
 
 .displaybar{width:250px; height:auto; float:left;}
-.listitle{ background-image:url(listtitle.jpg); width:250px; height:40px; color:#ec6d6d;; font-size:24px; font-weight:bold; text-align:center;padding-top:10px;}
+.listitle{ background-image:url(../images/listtitle.jpg); width:250px; height:40px; color:#ec6d6d;; font-size:24px; font-weight:bold; text-align:center;padding-top:10px;}
 .rowlist_wrap{paading:0px; margin:0px;}
 .rowlist_wrap li{  padding:0px; margin:0px; text-align:center; font-size:20px;font-family:"楷体";}
 .rowlist_wrap  .rowlist a{ color: #666;  display:block;width:245px; height:35px;border-left:5px solid #FFF; background-color:#f1f1f1;  border-left:5px solid #f1f1f1;padding-top:15px;}
@@ -124,10 +125,10 @@ li{ height:40px;}
 .contentpage{  background:#fff; overflow:hidden; height:700px; width:1000px; margin:0 auto;}
 .contitle{font-size:28px; font-family:"楷体"; line-height:30px;}
 .content_area p{margin:0 auto; padding:15px; text-indent:2em; font-family:"楷体"; padding-left:350px; font-size:24px;}
-.contentpage{ background:url(contentpagebackground.jpg) #FFF;}
+.contentpage{ background:url(../images/contentpagebackground.jpg) #FFF;}
 .conlist{padding-left:40px; padding-top:20px;}
 .conlist a{font-family:"楷体"; font-size:24px; color:#000;}
-.listright{ background:url(contentbackground.jpg) bottom no-repeat #FFF;}
+.listright{ background:url(../images/contentbackground.jpg) bottom no-repeat #FFF;}
 
 
 
