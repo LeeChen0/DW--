@@ -4,7 +4,7 @@ a{  text-decoration:none;}
 li{list-style-type:none;}
 img{border:none; padding:0px; }
 /*首页*/
-#head .inner {background: url(head.jpg) no-repeat center top;height:250px;}
+#head .inner {background: url(images/head.jpg) no-repeat center top;height:250px;}
 .inner{ width:1200px; margin:0px auto; }
 .logo{ padding-top:20px; padding-left:120px; float:left;}
 .quicklink{width:300px; height:100px; float:right; padding-right:135px; padding-top:30px;}
