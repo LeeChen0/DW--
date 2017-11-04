@@ -83,7 +83,7 @@ li{ height:40px;}
 .boy .content{ width:300px; float:left; padding-top:50px; padding-left:100px;}
 .boy .inTheProse .littlepoem { border-left:#000 3px solid;
 }
-
+#foot{height:150px; width:1200px;margin:0px auto; background-image:url(../images/foot.jpg);}
 .foot_Left{ color:#afa9a9; font-family:"楷体"; padding-top:40px; float:left; font-size:24px; width:398px;  border-right:1.5px solid #fff; height:150px;}
 .foot_Right{width:398px; height:150px;color:#afa9a9; font-family:"楷体"; float:right; border-left:1.5px solid #fff;}
 .foot_Mid{ float:left; width:398px; padding-top:40px;}
